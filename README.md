@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lychrst
 - 👀 I’m interested in philosophy.
-- 🌱 I’m currently learning data analytics.
+- 🌱 I recently graduated from Flatiron.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... clyons210@gmail.com
 
