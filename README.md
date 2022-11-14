@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lychrst
 - 👀 I’m interested in philosophy.
 - 🌱 I recently graduated from Flatiron.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on data analytis projects that focus on environmental issues. I already have two I started.
 - 📫 How to reach me ... clyons210@gmail.com
 
 <!---
